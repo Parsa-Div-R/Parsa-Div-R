@@ -1,5 +1,34 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Currently, I’m weaving intricate spells in MQL4 and MQL5. If you peek into my code cauldron, you’ll find trading algorithms and financial incantations brewing.<br>Oh, and there’s this secret project—an MQL5 framework that’ll make other traders raise their eyebrows. Shh, it’s still under wraps!<br>👯 I’m looking to collaborate on:<br>Calling all fellow MQL5 enthusiasts! Let’s join forces. If you’re into algorithmic trading, financial sorcery, or just love deciphering candlestick patterns, I’m all ears (or should I say, all code eyes?).<br>🤝 I’m looking for help with:<br>If you’ve mastered the art of optimizing trading strategies or know how to tame wild market data feeds, let’s chat. I could use some guidance from the trading gurus out there.<br>🌱 I’m currently learning:<br>My learning garden is evergreen. Right now, I’m nurturing my Python seedlings, tending to my Laravel roses, and sprinkling SQL fertilizer. 🌿<br>Oh, and I’m secretly practicing C++ incantations under the moonlight. 🌙<br>💬 Ask me about:<br>Anything MQL5-related! Whether it’s about indicators, EA development, or backtesting strategies, I’m your go-to MQL5 oracle.<br>Also, feel free to ask about my favorite debugging spells. Spoiler: It involves a pinch of patience and a dash of rubber duck debugging.<br>⚡ Fun fact is<br>Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense!
+Hey there! I'm [Parsa Bibinia], a 21-year-old developer deeply immersed in the world of coding and trading. With 6 years of experience as a crypto and forex trader, I bring a unique blend of skills to the table. Here's a bit about me:
+
+Languages & Tech:
+MQL4/MQL5, PHP, Laravel, pure JavaScript, SQL, Python, C++m sql
+
+Passion Projects:
+I’m particularly passionate about MQL5 projects and am currently building a team to create a framework in MQL5.
+
+The Journey Never Ends:
+Development is an endless journey, and I'm always learning and improving—because why stop when there’s always something new to build?
+
+🔭 What I'm Working On
+Currently, I’m weaving intricate spells in MQL4 and MQL5. If you peek into my code cauldron, you’ll find trading algorithms and financial strategies brewing.
+And yes, I’m working on a secret MQL5 framework that might just make other traders raise their eyebrows. Stay tuned for that!
+
+👯 Looking to Collaborate On
+Calling all MQL5 enthusiasts! Whether you're into algorithmic trading or deciphering candlestick patterns, let’s team up and build something amazing. I'm always excited to meet fellow coding wizards.
+
+🤝 Need Help With
+Got tips on optimizing trading strategies or taming wild market data feeds? Let’s chat! I'm always open to learning from experienced traders and devs.
+
+🌱 Currently Learning
+Right now, I’m diving deeper into Python, Laravel, and SQL. And on the side, I’m sharpening my C++ skills—sometimes even under the moonlight. 🌙
+
+💬 Ask Me About
+Ask me anything about MQL5—indicators, Expert Advisors, backtesting, you name it!
+Also, if you're curious about my debugging process, I’ve got a secret weapon: patience... and a rubber duck 🦆.
+
+⚡ Fun Fact
+Programming is like writing a novel—except if you miss a single comma on page 126, everything falls apart. But hey, who doesn’t love a good plot twist?
 
 
 ## 🌐 Socials:
