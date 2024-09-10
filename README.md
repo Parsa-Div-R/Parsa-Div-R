@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm [Parsa Bibinia], a 21-year-old developer deeply immersed in the world of coding and trading. With 6 years of experience as a crypto and forex trader, I bring a unique blend of skills to the table. Here's a bit about me:
+Hey there! I'm Parsa Bibinia, a 21-year-old developer deeply immersed in the world of coding and trading. With 6 years of experience as a crypto and forex trader, I bring a unique blend of skills to the table. Here's a bit about me:
 
 Languages & Tech:
 MQL4/MQL5, PHP, Laravel, pure JavaScript, SQL, Python, C++m sql
