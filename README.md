@@ -1,50 +1,165 @@
-# 💫 About Me:
-Hey there!a developer deeply immersed in the world of coding and trading. With 6 years of experience as a crypto and forex trader, I bring a unique blend of skills to the table. Here's a bit about me:
+# About Me
 
-Languages & Tech:
-MQL4/MQL5, PHP, Laravel, pure JavaScript, SQL, Python, C++m sql
+Hey there!  
+I’m a developer deeply immersed in the world of coding and trading. With 6+ years of experience in crypto and forex trading, I bring a unique mix of financial markets + software engineering.
 
-Passion Projects:
-I’m particularly passionate about MQL5 projects and am currently building a team to create a framework in MQL5.
-
-The Journey Never Ends:
-Development is an endless journey, and I'm always learning and improving—because why stop when there’s always something new to build?
-
-🔭 What I'm Working On
-Currently, I’m weaving intricate spells in MQL4 and MQL5. If you peek into my code cauldron, you’ll find trading algorithms and financial strategies brewing.
-And yes, I’m working on a secret MQL5 framework that might just make other traders raise their eyebrows. Stay tuned for that!
-
-👯 Looking to Collaborate On
-Calling all MQL5 enthusiasts! Whether you're into algorithmic trading or deciphering candlestick patterns, let’s team up and build something amazing. I'm always excited to meet fellow coding wizards.
-
-🤝 Need Help With
-Got tips on optimizing trading strategies or taming wild market data feeds? Let’s chat! I'm always open to learning from experienced traders and devs.
-
-🌱 Currently Learning
-Right now, I’m diving deeper into Python, Laravel, and SQL. And on the side, I’m sharpening my C++ skills—sometimes even under the moonlight. 🌙
-
-💬 Ask Me About
-Ask me anything about MQL5—indicators, Expert Advisors, backtesting, you name it!
-Also, if you're curious about my debugging process, I’ve got a secret weapon: patience... and a rubber duck 🦆.
-
-⚡ Fun Fact
-Programming is like writing a novel—except if you miss a single comma on page 126, everything falls apart. But hey, who doesn’t love a good plot twist?
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/diver_runin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parsa_div_r) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/parsa_div_r) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parsa-Div-R&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parsa-Div-R&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-Div-R&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Parsa-Div-R&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+I specialize in building trading systems, backend platforms, and automation tools that connect real-world markets with scalable software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parsa-Div-R&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Languages & Tech
+
+## Core Stack:
+- MQL4 / MQL5 (Expert Advisors, indicators, trading frameworks)
+- C# (.NET / .NET Core / ASP.NET)
+- PHP (Laravel)
+- Python
+- JavaScript (pure + frameworks)
+- SQL (MySQL, SQL Server, PostgreSQL)
+
+## Backend / Enterprise:
+- .NET / ASP.NET Core
+- Visual Studio / Visual Studio Code
+- REST APIs & Microservices
+- Redis (caching, queues, real-time systems)
+- WebSockets / real-time systems
+
+## Databases:
+- SQL Server
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+
+## Infrastructure / DevOps:
+- Ubuntu server management
+- IIS (Windows Server hosting)
+- Docker (basic usage)
+- VPS setup & deployment
+- Nginx / Apache
+- CI/CD workflows (basic)
+
+---
+
+# Passion Projects
+
+I’m especially passionate about:
+- MQL5 trading frameworks
+- Copy trading systems
+- Market data engines
+- High-performance backend systems for trading
+
+Currently, I’m building a modular MQL5 trading framework with my team designed for scalable algorithmic trading systems.
+
+---
+
+# The Journey Never Ends
+
+Development is an endless loop of improvement.  
+I’m constantly learning, testing, and rebuilding systems — because there’s always a better way to design something.
+
+---
+
+# What I'm Working On
+
+Right now, I’m focused on:
+- MQL4 / MQL5 trading systems
+- Backend trading infrastructure (C# / Laravel)
+- Real-time market data pipelines
+- API integrations for trading platforms
+
+And yes — a secret MQL5 framework is in progress aimed at making algorithmic trading more modular and scalable.
+
+---
+
+# Looking to Collaborate On
+
+I’m open to working with:
+- Algorithmic traders
+- Fintech developers
+- Backend engineers
+- MQL5 / MetaTrader developers
+
+If you're building anything related to trading systems or financial automation — let’s connect.
+
+---
+
+# Need Help With
+
+I can help with:
+- Trading system architecture
+- MQL4 / MQL5 Expert Advisors
+- API integrations (MetaTrader, brokers, crypto exchanges)
+- Backend optimization
+- SQL performance tuning
+- Real-time data systems
+
+---
+
+# Currently Learning
+
+- Advanced .NET architecture
+- Redis high-performance systems
+- Scalable backend design
+- Python for data systems
+- System design for trading infrastructure
+
+---
+
+# Ask Me About
+
+- MQL5 trading systems
+- Expert Advisors (EA) design
+- Backtesting strategies
+- Trading automation
+- Fintech backend architecture
+
+Debugging is part science, part patience… and sometimes a rubber duck 🦆
+
+---
+
+# Fun Fact
+
+Programming trading systems is like fighting the market:  
+you think you found stability… until volatility shows up again.
+
+---
+
+# Languages & Tech
+
+## Core Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![MQL5](https://img.shields.io/badge/MQL5-1E90FF.svg?style=for-the-badge)
+
+---
+
+## Databases:
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## Backend / Infrastructure:
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## Tools:
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
